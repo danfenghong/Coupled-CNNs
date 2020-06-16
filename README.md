@@ -5,7 +5,7 @@ This is a PyTorch implementation of the paper named "Classification of Hyperspec
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-     @article{hong2019augmented,
+     @article{hang2020Classification,
      title     = {Classification of Hyperspectral and LiDAR Data Using Coupled CNNs},
      author    = {R. {Hang} and Z. {Li} and P. {Ghamisi} and D. {Hong} and G. {Xia} and Q. {Liu}},
      journal   = {IEEE Trans. Geosci. Remote Sens.},
