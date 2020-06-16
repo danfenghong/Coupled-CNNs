@@ -12,5 +12,4 @@ This is a PyTorch implementation of the paper named "Classification of Hyperspec
      year      = {2020},
      publisher = {IEEE}}
 
-Please kindly cite the paper if this code is useful and helpful for your research. 
 
